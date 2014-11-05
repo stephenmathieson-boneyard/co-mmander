@@ -2,7 +2,10 @@
   "name": "co-mmander",
   "version": "0.0.0",
   "description": "Tiny wrapper around commander supporting generator functions",
-  "keywords": ["co", "commander"],
+  "keywords": [
+    "co",
+    "commander"
+  ],
   "author": "Stephen Mathieson <me@stephenmathieson.com>",
   "repository": {
     "type": "git",
@@ -18,5 +21,9 @@
     "co-mocha": "^1.0.3",
     "mocha": "^2.0.1"
   },
-  "main": "index"
+  "main": "index",
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT"
 }
