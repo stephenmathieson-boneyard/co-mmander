@@ -1,0 +1,22 @@
+{
+  "name": "co-mmander",
+  "version": "0.0.0",
+  "description": "Tiny wrapper around commander supporting generator functions",
+  "keywords": ["co", "commander"],
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/co-mmander.git"
+  },
+  "dependencies": {
+    "co": "^3.1.0",
+    "commander": "^2.5.0",
+    "is-generator-function": "^1.0.0"
+  },
+  "devDependencies": {
+    "co-exec": "^1.1.0",
+    "co-mocha": "^1.0.3",
+    "mocha": "^2.0.1"
+  },
+  "main": "index"
+}
