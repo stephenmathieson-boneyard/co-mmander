@@ -1,6 +1,6 @@
 {
   "name": "co-mmander",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tiny wrapper around commander supporting generator functions",
   "keywords": [
     "co",
